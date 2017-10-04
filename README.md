@@ -4,7 +4,7 @@ Build on
 
    - Visual Basic Script
 
-This is just a demostration of what vbs sapi.spvoice object can do.
+This is just a <strong>demostration</strong> of what vbs sapi.spvoice object can do.
 
 ## Get the code
 	
