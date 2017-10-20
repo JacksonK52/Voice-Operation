@@ -14,12 +14,19 @@ This is just a <strong>demostration</strong> of what we can do using vbs sapi.sp
 
 ### Run
 
-Double click on the downloaded .vbs file.
+   Open the Ready folder. Double click on the downloaded .vbs file.
+
+### To run at start up
+
+   To run the code at start up goto
+    C:\ > Users > userName > AppData > Roaming > Microsoft > Windows > Start Menu > Programs > Startup
+   Past the code inside the startup folder. Next time you startup your PC it will run the code.
+   Note that some of the file are hidden so dont forget to check show hidden file.
 
 
 ### Contribution
 
-You can contribute you code at jacksonkonjengbam@hotmail.com
+   You can contribute you code at jacksonkonjengbam@hotmail.com
 
 
 For more information on what we are doing here please got to description
