@@ -1,0 +1,16 @@
+1. Interval Values
+###########################################
+
+'For Date
+d          - Day
+m          - Month
+yyyy       - Year
+w          - Weekday
+ww         - Week of the year
+y          - Day of the year
+q          - Quarter
+
+'For Time
+h          - Hour
+n          - Minute
+s          - Second
