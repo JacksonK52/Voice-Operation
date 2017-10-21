@@ -5,20 +5,15 @@ say “Good Morning, Afternoon or Evening”(according to your computer time)
 when you turn on your computer, well our project is all about that. Our 
 project aim is to create a simple and easy to use code so that any user who 
 want to make their device talk for their upcoming mega project or to make a 
-simple program that says “welcome” just by saving the code that they want 
+simple program that say “welcome” just by saving the code that they want 
 as simple as that. 
-   We are currently using vbsript (Visual Basic Script) but if you 
-have some good scripting or programming languages in mind then feel free to 
-share.
    Our project is completely an open-source project so that any user 
-can tweak any code that he/she wants. We advise you not to upload(push) any 
-code that you don’t want to share with the rest of the world. 
+can tweak any code that he/she wants.
 
 
-## Why VB Script and why not other?
+## Why VB Script?
    Well we want to make our code work right out of the box without installing 
- an additional program or software for it so we went for vbs but we are also 
- planning to work on other scripting/programming languages as our project grows.
+ an additional program or software for it that's why we went for vbs and it is also easy to code on vbs.
 
 
 ## Contribution
