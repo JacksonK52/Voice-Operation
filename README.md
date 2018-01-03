@@ -10,6 +10,7 @@ This is just a <strong>demostration</strong> of what we can do using vbs sapi.sp
 ### Get the code
 	
 	git clone https://github.com/JacksonK52/Voice-Operation
+  <a href="https://github.com/JacksonK52/Voice-Operation/archive/master.zip">Click Here to download</a>
 	
 
 ### Run
