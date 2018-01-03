@@ -1,10 +1,16 @@
 2. Default function of date and time
 ###########################################
 
-'Current Date
-'+ speechObject.vbs
+'Code
 
-speech.speak Date()     
+Dim speech
+Set speech = CreateObject("sapi.spvoice")
+'Date() is use for current date and time
+speech.speak Date() 
+
+'Return value
+
+
 
 ------------------------------------
 'Current Day using Date function
