@@ -14,7 +14,7 @@ This is just a <strong>demostration</strong> of what we can do using vbs sapi.sp
 
 ### Run
 
-   Open the Ready folder. Double click on the downloaded .vbs file.
+   Open the folder. Double click on the downloaded .vbs file.
 
 ### To run at start up
 
