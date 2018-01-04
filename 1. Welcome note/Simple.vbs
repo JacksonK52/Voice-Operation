@@ -10,6 +10,6 @@ Else
 	If Hour(time)=>16 then
 		speech.speak "Good Evening " & userName
 	Else
-        speech.speak "Good Afternoon " & userName
+        	speech.speak "Good Afternoon " & userName
 	End If
 End If
