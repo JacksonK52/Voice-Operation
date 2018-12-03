@@ -33,4 +33,4 @@ This is just a <strong>demostration</strong> of what we can do using vbs sapi.sp
    You can contribute you code at jacksonkonjengbam@hotmail.com
 
 
-For more information on what we are doing here please got to description
+For more information on what we are doing here please goto description
